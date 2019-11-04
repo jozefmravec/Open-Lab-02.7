@@ -7,7 +7,7 @@ namespace OpenLab2._7a
         static void Main(string[] args)
         {
             Christmas christmas = new Christmas();
-                Console.WriteLine(christmas.IsTimeForCookies(2019, 12, 24));
+                Console.WriteLine(christmas.IsTimeForCookies(12, 24));
         }
     }
 }
